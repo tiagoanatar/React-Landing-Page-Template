@@ -1,3 +1,6 @@
+<h3>Live demo</h3>
+Check the live demo here 👉️ https://pedantic-snyder-c2e5a2.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
