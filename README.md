@@ -1,5 +1,7 @@
-<h3>Live demo</h3>
+<h1>Live demo</h1>
 Check the live demo here 👉️ https://pedantic-snyder-c2e5a2.netlify.app/
+
+<hr />
 
 # Getting Started with Create React App
 
